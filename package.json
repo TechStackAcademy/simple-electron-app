@@ -1,0 +1,14 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Alex Chaplinsky",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "npx electron main.js"
+  },
+  "devDependencies": {
+    "electron": "^9.0.0-beta.13"
+  }
+}
