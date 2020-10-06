@@ -141,10 +141,10 @@ duplexer3@^0.1.4:
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
   integrity sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=
 
-electron@^9.0.0-beta.13:
-  version "9.0.0-beta.13"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-9.0.0-beta.13.tgz#f03c1fa1a7fdca8feefe239c800c0ce103156338"
-  integrity sha512-JW2KAUTqkSf//qy6kIFyoua1xkpxZ5loBT5bg+iLHop/684JUilb/KfDIjn5Lzt15eOCkwexSFN4HKJK7823ZA==
+electron@^9.3.0:
+  version "9.3.0"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-9.3.0.tgz#a4f3dc17f31acc6797eb4c2c4bd0d0e25efb939b"
+  integrity sha512-7zPLEZ+kOjVJqfawMQ0vVuZZRqvZIeiID3tbjjbVybbxXIlFMpZ2jogoh7PV3rLrtm+dKRfu7Qc4E7ob1d0FqQ==
   dependencies:
     "@electron/get" "^1.0.1"
     "@types/node" "^12.0.12"
